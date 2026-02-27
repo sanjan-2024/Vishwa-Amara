@@ -1,0 +1,4 @@
+# Vishwa-Amara
+Vishwa Amara is a heritage-focused initiative developed under the theme Traditional &amp; Decentralized Economic Systems. The project addresses the absence of a digital service and documentation system for heritage tourism-based micro enterprises The core objective of Vishwa Amara is to create a structured digital platform that supports small-scale heritage and tourism-related businesses. These micro enterprises often lack proper digital presence, documentation, and organized service systems. Vishwa Amara aims to bridge this gap by providing a streamlined solution to document, promote, and digitally manage heritage-based economic activities.
+
+Through digital integration, the project seeks to strengthen traditional economic systems, improve visibility for local enterprises, and enhance the sustainability of heritage tourism sectors.
