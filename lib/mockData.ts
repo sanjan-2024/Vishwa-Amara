@@ -19,7 +19,7 @@ export const products: Product[] = [
     geoValidationStatus: "matched",
     trustScore: 94,
     qrCode: "https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://vishwaamara.com/verify/VA-MYS-2024-001",
-    verificationUrl: "https://vishwaamara.com/verify/VA-MYS-2024-001",
+    verificationUrl: "https://qr1.me-qr.com/data/image-pack/h54d9qsp",
     image: "/images/mysuru-silk.jpg",
   },
   {
